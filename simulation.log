@@ -1,0 +1,11 @@
+2025-07-22 14:49:43,114 - INFO - Simulation started.
+2025-07-22 14:49:43,115 - ERROR - Main execution failed: Simulation failed: name 'np' is not defined
+2025-07-22 14:50:40,765 - INFO - Simulation started.
+2025-07-22 14:50:40,766 - ERROR - Main execution failed: Simulation failed: name 'np' is not defined
+2025-07-22 16:40:00,695 - INFO - Simulation started.
+2025-07-22 16:40:00,695 - ERROR - Main execution failed: Simulation failed: name 'np' is not defined
+2025-07-22 16:41:46,912 - INFO - Simulation started.
+2025-07-22 16:41:46,912 - INFO - Simulation completed.
+2025-07-22 16:41:46,912 - INFO - Final Grid Load: 2.3705904774487396
+2025-07-22 16:41:46,912 - INFO - Final Renewable Generation: 0
+2025-07-22 16:41:46,912 - INFO - Final Battery SOC: 0.0
